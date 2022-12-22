@@ -1,3 +1,4 @@
+<img align="center" alt="banner" width="100%" src="https://media.licdn.com/dms/image/D4D16AQEOq-6TOzwXog/profile-displaybackgroundimage-shrink_350_1400/0/1671716072767?e=1677110400&v=beta&t=eVYS414_wHqCQHJFV1gJOwmU2gvSvynZXpqEu2R5YRk" >
 <h1 align="center">Hi 👋, I'm Abhishek Kant</h1>
 <h3 align="center">SOMEBODY TOLD ME I’M A FAILURE, I’LL PROVE THEM WRONG.</h3>
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
